@@ -1,2 +1,2 @@
-Kashif from import Kashif
+import Kashif
 
